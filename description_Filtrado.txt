@@ -1,0 +1,22 @@
+Análise da variável '10Percentil_Geral':
+count    2.089195e+06
+mean     1.000026e-01
+std      3.000036e-01
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      0.000000e+00
+max      1.000000e+00
+Name: 10Percentil_Geral, dtype: float64
+
+Análise da variável 'Acesso_Internet':
+count    2.089195e+06
+mean     9.234174e-01
+std      2.659281e-01
+min      0.000000e+00
+25%      1.000000e+00
+50%      1.000000e+00
+75%      1.000000e+00
+max      1.000000e+00
+Name: Acesso_Internet, dtype: float64
+

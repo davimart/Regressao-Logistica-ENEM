@@ -1,0 +1,660 @@
+Análise da variável 'TP_SEXO':
+TP_SEXO
+F    196525
+M    151119
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_SEXO':
+TP_SEXO
+F    56.530531
+M    43.469469
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_COR_RACA':
+count    347644.000000
+mean          1.613004
+std           0.958950
+min           0.000000
+25%           1.000000
+50%           1.000000
+75%           3.000000
+max           5.000000
+Name: TP_COR_RACA, dtype: float64
+
+Análise da variável 'TP_COR_RACA':
+TP_COR_RACA
+1    227496
+3     89799
+2     17172
+4      6941
+0      5886
+5       350
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_COR_RACA':
+TP_COR_RACA
+1    65.439358
+3    25.830735
+2     4.939536
+4     1.996583
+0     1.693111
+5     0.100678
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_ESCOLA':
+count    347644.000000
+mean          1.575385
+std           0.816643
+min           1.000000
+25%           1.000000
+50%           1.000000
+75%           2.000000
+max           3.000000
+Name: TP_ESCOLA, dtype: float64
+
+Análise da variável 'TP_ESCOLA':
+TP_ESCOLA
+1    221070
+3     73455
+2     53119
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_ESCOLA':
+TP_ESCOLA
+1    63.590915
+3    21.129374
+2    15.279711
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_LOCALIZACAO_ESC':
+count    112106.000000
+mean          1.014843
+std           0.120925
+min           1.000000
+25%           1.000000
+50%           1.000000
+75%           1.000000
+max           2.000000
+Name: TP_LOCALIZACAO_ESC, dtype: float64
+
+Análise da variável 'TP_LOCALIZACAO_ESC':
+TP_LOCALIZACAO_ESC
+1.0    110442
+2.0      1664
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_LOCALIZACAO_ESC':
+TP_LOCALIZACAO_ESC
+1.0    98.515691
+2.0     1.484309
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_PRESENCA_CN':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: TP_PRESENCA_CN, dtype: float64
+
+Análise da variável 'TP_PRESENCA_CN':
+TP_PRESENCA_CN
+1    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_PRESENCA_CN':
+TP_PRESENCA_CN
+1    100.0
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_PRESENCA_CH':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: TP_PRESENCA_CH, dtype: float64
+
+Análise da variável 'TP_PRESENCA_CH':
+TP_PRESENCA_CH
+1    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_PRESENCA_CH':
+TP_PRESENCA_CH
+1    100.0
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_PRESENCA_LC':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: TP_PRESENCA_LC, dtype: float64
+
+Análise da variável 'TP_PRESENCA_LC':
+TP_PRESENCA_LC
+1    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_PRESENCA_LC':
+TP_PRESENCA_LC
+1    100.0
+Name: proportion, dtype: float64
+
+Análise da variável 'TP_PRESENCA_MT':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: TP_PRESENCA_MT, dtype: float64
+
+Análise da variável 'TP_PRESENCA_MT':
+TP_PRESENCA_MT
+1    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_PRESENCA_MT':
+TP_PRESENCA_MT
+1    100.0
+Name: proportion, dtype: float64
+
+Análise da variável 'NU_NOTA_CN':
+count    347644.000000
+mean        599.932353
+std          58.546564
+min         360.600000
+25%         563.500000
+50%         600.000000
+75%         635.700000
+max         875.300000
+Name: NU_NOTA_CN, dtype: float64
+
+Análise da variável 'NU_NOTA_CN':
+NU_NOTA_CN
+606.5    315
+594.4    312
+610.1    305
+599.4    303
+585.8    303
+        ... 
+839.1      1
+772.6      1
+416.1      1
+816.6      1
+806.2      1
+Name: count, Length: 4168, dtype: int64
+
+Porcentagens da variável 'NU_NOTA_CN':
+NU_NOTA_CN
+606.5    0.090610
+594.4    0.089747
+610.1    0.087733
+599.4    0.087158
+585.8    0.087158
+           ...   
+839.1    0.000288
+772.6    0.000288
+416.1    0.000288
+816.6    0.000288
+806.2    0.000288
+Name: proportion, Length: 4168, dtype: float64
+
+Análise da variável 'NU_NOTA_CH':
+count    347644.000000
+mean        635.787451
+std          42.820564
+min         321.800000
+25%         607.400000
+50%         634.700000
+75%         663.300000
+max         839.200000
+Name: NU_NOTA_CH, dtype: float64
+
+Análise da variável 'NU_NOTA_CH':
+NU_NOTA_CH
+637.0    396
+629.9    373
+625.2    369
+626.3    368
+634.9    366
+        ... 
+478.1      1
+506.9      1
+423.1      1
+481.5      1
+497.4      1
+Name: count, Length: 3369, dtype: int64
+
+Porcentagens da variável 'NU_NOTA_CH':
+NU_NOTA_CH
+637.0    0.113910
+629.9    0.107294
+625.2    0.106143
+626.3    0.105855
+634.9    0.105280
+           ...   
+478.1    0.000288
+506.9    0.000288
+423.1    0.000288
+481.5    0.000288
+497.4    0.000288
+Name: proportion, Length: 3369, dtype: float64
+
+Análise da variável 'NU_NOTA_LC':
+count    347644.000000
+mean        609.340877
+std          40.287749
+min         281.100000
+25%         584.300000
+50%         610.000000
+75%         635.600000
+max         801.000000
+Name: NU_NOTA_LC, dtype: float64
+
+Análise da variável 'NU_NOTA_LC':
+NU_NOTA_LC
+608.0    415
+607.1    409
+599.8    409
+611.1    404
+613.9    404
+        ... 
+375.4      1
+748.9      1
+389.0      1
+765.3      1
+769.2      1
+Name: count, Length: 3321, dtype: int64
+
+Porcentagens da variável 'NU_NOTA_LC':
+NU_NOTA_LC
+608.0    0.119375
+607.1    0.117649
+599.8    0.117649
+611.1    0.116211
+613.9    0.116211
+           ...   
+375.4    0.000288
+748.9    0.000288
+389.0    0.000288
+765.3    0.000288
+769.2    0.000288
+Name: proportion, Length: 3321, dtype: float64
+
+Análise da variável 'NU_NOTA_MT':
+count    347644.000000
+mean        715.327389
+std          80.599757
+min         361.700000
+25%         659.900000
+50%         709.400000
+75%         768.200000
+max         985.700000
+Name: NU_NOTA_MT, dtype: float64
+
+Análise da variável 'NU_NOTA_MT':
+NU_NOTA_MT
+706.0    221
+701.4    217
+687.9    214
+705.3    214
+680.7    213
+        ... 
+407.3      1
+969.5      1
+447.1      1
+973.7      1
+442.0      1
+Name: count, Length: 5350, dtype: int64
+
+Porcentagens da variável 'NU_NOTA_MT':
+NU_NOTA_MT
+706.0    0.063571
+701.4    0.062420
+687.9    0.061557
+705.3    0.061557
+680.7    0.061270
+           ...   
+407.3    0.000288
+969.5    0.000288
+447.1    0.000288
+973.7    0.000288
+442.0    0.000288
+Name: proportion, Length: 5350, dtype: float64
+
+Análise da variável 'TP_STATUS_REDACAO':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: TP_STATUS_REDACAO, dtype: float64
+
+Análise da variável 'TP_STATUS_REDACAO':
+TP_STATUS_REDACAO
+1.0    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'TP_STATUS_REDACAO':
+TP_STATUS_REDACAO
+1.0    100.0
+Name: proportion, dtype: float64
+
+Análise da variável 'NU_NOTA_REDACAO':
+count    347644.000000
+mean        858.217775
+std          79.688662
+min         360.000000
+25%         820.000000
+50%         880.000000
+75%         920.000000
+max        1000.000000
+Name: NU_NOTA_REDACAO, dtype: float64
+
+Análise da variável 'NU_NOTA_REDACAO':
+NU_NOTA_REDACAO
+920.0     45886
+880.0     41415
+900.0     40954
+940.0     33952
+860.0     29763
+840.0     29448
+820.0     20340
+800.0     19464
+960.0     18717
+780.0     12953
+760.0     12775
+740.0      8312
+720.0      7826
+980.0      5580
+700.0      5103
+680.0      4683
+660.0      2908
+640.0      2713
+620.0      1766
+600.0      1426
+580.0       766
+560.0       467
+540.0       182
+520.0       105
+500.0        39
+1000.0       31
+480.0        27
+460.0        15
+440.0        10
+420.0         7
+400.0         5
+380.0         5
+360.0         1
+Name: count, dtype: int64
+
+Porcentagens da variável 'NU_NOTA_REDACAO':
+NU_NOTA_REDACAO
+920.0     13.199135
+880.0     11.913049
+900.0     11.780442
+940.0      9.766313
+860.0      8.561344
+840.0      8.470734
+820.0      5.850813
+800.0      5.598831
+960.0      5.383956
+780.0      3.725938
+760.0      3.674736
+740.0      2.390952
+720.0      2.251153
+980.0      1.605090
+700.0      1.467881
+680.0      1.347068
+660.0      0.836488
+640.0      0.780396
+620.0      0.507991
+600.0      0.410190
+580.0      0.220340
+560.0      0.134333
+540.0      0.052352
+520.0      0.030203
+500.0      0.011218
+1000.0     0.008917
+480.0      0.007767
+460.0      0.004315
+440.0      0.002877
+420.0      0.002014
+400.0      0.001438
+380.0      0.001438
+360.0      0.000288
+Name: proportion, dtype: float64
+
+Análise da variável 'Q001':
+Q001
+E    108909
+F     80801
+G     75173
+D     25813
+C     23602
+B     18041
+H     13174
+A      2131
+Name: count, dtype: int64
+
+Porcentagens da variável 'Q001':
+Q001
+E    31.327738
+F    23.242455
+G    21.623557
+D     7.425125
+C     6.789129
+B     5.189504
+H     3.789509
+A     0.612983
+Name: proportion, dtype: float64
+
+Análise da variável 'Q002':
+Q002
+E    106746
+G    103867
+F     90763
+D     19113
+C     13890
+B      9333
+H      2978
+A       954
+Name: count, dtype: int64
+
+Porcentagens da variável 'Q002':
+Q002
+E    30.705549
+G    29.877403
+F    26.108030
+D     5.497866
+C     3.995467
+B     2.684643
+H     0.856623
+A     0.274419
+Name: proportion, dtype: float64
+
+Análise da variável 'Q003':
+Q003
+D    136157
+E     82915
+C     52557
+B     37018
+F     19962
+A     19035
+Name: count, dtype: int64
+
+Porcentagens da variável 'Q003':
+Q003
+D    39.165641
+E    23.850548
+C    15.118052
+B    10.648249
+F     5.742081
+A     5.475429
+Name: proportion, dtype: float64
+
+Análise da variável 'Q004':
+Q004
+D    159164
+B     80466
+E     61110
+F     20161
+C     14699
+A     12044
+Name: count, dtype: int64
+
+Porcentagens da variável 'Q004':
+Q004
+D    45.783618
+B    23.146092
+E    17.578327
+F     5.799323
+C     4.228176
+A     3.464464
+Name: proportion, dtype: float64
+
+Análise da variável 'Q006':
+Q006
+H    38635
+G    31255
+D    28928
+C    27781
+E    27554
+B    25850
+Q    21324
+F    20930
+I    19793
+M    16312
+L    16247
+J    15340
+O    15164
+P    15058
+N    12746
+K    11700
+A     3027
+Name: count, dtype: int64
+
+Porcentagens da variável 'Q006':
+Q006
+H    11.113380
+G     8.990519
+D     8.321156
+C     7.991221
+E     7.925924
+B     7.435768
+Q     6.133861
+F     6.020527
+I     5.693468
+M     4.692156
+L     4.673459
+J     4.412560
+O     4.361933
+P     4.331443
+N     3.666394
+K     3.365512
+A     0.870718
+Name: proportion, dtype: float64
+
+Análise da variável 'Acesso_Internet':
+count    347644.000000
+mean          0.986621
+std           0.114890
+min           0.000000
+25%           1.000000
+50%           1.000000
+75%           1.000000
+max           1.000000
+Name: Acesso_Internet, dtype: float64
+
+Análise da variável 'Acesso_Internet':
+Acesso_Internet
+1    342993
+0      4651
+Name: count, dtype: int64
+
+Porcentagens da variável 'Acesso_Internet':
+Acesso_Internet
+1    98.662137
+0     1.337863
+Name: proportion, dtype: float64
+
+Análise da variável 'Nota_Geral':
+count    347644.000000
+mean       3418.605846
+std         184.563779
+min        3186.000000
+25%        3268.900000
+50%        3374.300000
+75%        3528.725000
+max        4279.900000
+Name: Nota_Geral, dtype: float64
+
+Análise da variável 'Nota_Geral':
+Nota_Geral
+3188.5    122
+3203.5    122
+3189.0    120
+3207.5    116
+3210.5    115
+         ... 
+4096.0      1
+3971.6      1
+3910.1      1
+3603.2      1
+3514.7      1
+Name: count, Length: 22489, dtype: int64
+
+Porcentagens da variável 'Nota_Geral':
+Nota_Geral
+3188.5    0.035093
+3203.5    0.035093
+3189.0    0.034518
+3207.5    0.033367
+3210.5    0.033080
+            ...   
+4096.0    0.000288
+3971.6    0.000288
+3910.1    0.000288
+3603.2    0.000288
+3514.7    0.000288
+Name: proportion, Length: 22489, dtype: float64
+
+Análise da variável 'Top_10Percentil_Geral':
+count    347644.0
+mean          1.0
+std           0.0
+min           1.0
+25%           1.0
+50%           1.0
+75%           1.0
+max           1.0
+Name: Top_10Percentil_Geral, dtype: float64
+
+Análise da variável 'Top_10Percentil_Geral':
+Top_10Percentil_Geral
+1    347644
+Name: count, dtype: int64
+
+Porcentagens da variável 'Top_10Percentil_Geral':
+Top_10Percentil_Geral
+1    100.0
+Name: proportion, dtype: float64
+

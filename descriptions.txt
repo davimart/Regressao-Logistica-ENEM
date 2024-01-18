@@ -1,0 +1,66 @@
+Análise da variável 'TP_LOCALIZACAO_ESC':
+count    814709.000000
+mean          1.034711
+std           0.183046
+min           1.000000
+25%           1.000000
+50%           1.000000
+75%           1.000000
+max           2.000000
+Name: TP_LOCALIZACAO_ESC, dtype: float64
+
+Análise da variável 'TP_PRESENCA_LC':
+count    3.059007e+06
+mean     7.273887e-01
+std      4.483075e-01
+min      0.000000e+00
+25%      0.000000e+00
+50%      1.000000e+00
+75%      1.000000e+00
+max      2.000000e+00
+Name: TP_PRESENCA_LC, dtype: float64
+
+Análise da variável 'TP_STATUS_REDACAO':
+count    2.216873e+06
+mean     1.175246e+00
+std      8.494994e-01
+min      1.000000e+00
+25%      1.000000e+00
+50%      1.000000e+00
+75%      1.000000e+00
+max      9.000000e+00
+Name: TP_STATUS_REDACAO, dtype: float64
+
+Análise da variável 'NU_NOTA_REDACAO':
+count    2.216873e+06
+mean     6.257520e+02
+std      2.097801e+02
+min      0.000000e+00
+25%      5.400000e+02
+50%      6.400000e+02
+75%      7.800000e+02
+max      1.000000e+03
+Name: NU_NOTA_REDACAO, dtype: float64
+
+Análise da variável 'Acesso a Internet':
+count    3.059007e+06
+mean     9.102065e-01
+std      2.858858e-01
+min      0.000000e+00
+25%      1.000000e+00
+50%      1.000000e+00
+75%      1.000000e+00
+max      1.000000e+00
+Name: Acesso a Internet, dtype: float64
+
+Análise da variável 'Performance_Redacao':
+count    3.059007e+06
+mean     3.485265e-01
+std      4.765038e-01
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      1.000000e+00
+max      1.000000e+00
+Name: Performance_Redacao, dtype: float64
+
